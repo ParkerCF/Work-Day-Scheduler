@@ -10,7 +10,7 @@ As an employee with a busy schedule this application will allow the usre to add 
 ![App Screenshot](./Assets/screenshot.png)
 
 ## Link
-
+(<https://parkercf.github.io/Work-Day-Scheduler/>)
 
 
 ## Features
